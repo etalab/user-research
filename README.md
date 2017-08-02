@@ -14,7 +14,7 @@ L'enjeu est de dégager des **actions courtes à impact fort** ainsi qu'une visi
 
 Entretiens avec :
 
-* [Joel Gombin](20170711-joel/index.md)
-* [Nicolas Barthe-Dejean](20170711-nicolas/index.md)
+* [Joel Gombin](interviews/20170711-joel/index.md)
+* [Nicolas Barthe-Dejean](interviews/20170711-nicolas/index.md)
 
 [datagouv]: https://data.gouv.fr/
