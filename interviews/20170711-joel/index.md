@@ -37,7 +37,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 🔍 "[Prénoms](https://www.data.gouv.fr/fr/search/?q=pr%C3%A9noms)"
 
-* 🙂 Il y a 1 jeu de données de l'INSEE  
+* 🙂 Il y a 1 jeu de données de l'INSEE
 * 🤔 Il y a 50 jeux locaux qui redécoupent ce jeu de l'INSEE
 
 🔍 "[élections présidentielles](https://www.data.gouv.fr/fr/search/?q=%C3%A9lections+pr%C3%A9sidentielles)"
@@ -47,15 +47,15 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 	* Le quatrième correspond aux _élections européennes_
 	* Puis arrivent ensuite des jeux relatifs aux _élections cantonales_ et aux _élections législatives_
 	* ❗️Enfin arrive en 8ème position un jeu _mentionnant explicitement_ _élections présidentielles_
-* Par contre en commençant à saisir "**e**lections présidentielles" l'auto-complétion indique un résultat potentiel intéressant.  
-![](20170711-joel/search-elections-presidentielles.png)  
-![](20170711-joel/search-élections-presidentielles.png)
+* Par contre en commençant à saisir "**e**lections présidentielles" l'auto-complétion indique un résultat potentiel intéressant.
+![](search-elections-presidentielles.png)
+![](search-élections-presidentielles.png)
 * 😕 Les tags n'aident pas à trier dans ce cas de figure
 * 😨 Pour trouver un résultat récent (de 2017), le mieux est encore d'utiliser la _recherche Google_ (à requête équivalente)
 
 > D'ailleurs Google m'affiche même le post de blog.
 
-![](20170711-joel/google-élections-présidentielles.png)
+![](google-élections-présidentielles.png)
 
 
 > Je favorise les jeux de données au format CSV ou Excel, ça va beaucoup plus vite à manipuler.
@@ -66,7 +66,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 > Je regarde souvent les derniers jeux de données publiés sur la page d'accueil.
 
-![](20170711-joel/latest-datasets.png)
+![](latest-datasets.png)
 
 ---
 
@@ -78,7 +78,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 ---
 
-❗️ Si une commune renseigne mieux un jeu de métadonnées/tags qu'une administration publique, elle devancera un Ministère par exemple. 
+❗️ Si une commune renseigne mieux un jeu de métadonnées/tags qu'une administration publique, elle devancera un Ministère par exemple.
 
 😤 C'est problématique car un jeu de données à couverture nationale contenant le même type d'information est _plus important_.
 
@@ -107,9 +107,9 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 😤 L'autocomplete ne montre que des résultats du département des Vosges.
 
-![](20170711-joel/search-accidents-autocomplete.png)
+![](search-accidents-autocomplete.png)
 
-![](20170711-joel/search-accidents.png)
+![](search-accidents.png)
 
 🔗 [Accidents de la route](https://www.data.gouv.fr/fr/datasets/accidents-de-la-route/)
 
@@ -117,11 +117,11 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 🔍 "sirene"
 
-![](20170711-joel/sirene-autocomplete.png)
+![](sirene-autocomplete.png)
 
 😤 L'autocomplete ne donne rien (découpage local), donc on lance la recherche.
 
-![](20170711-joel/sirene-search.png)
+![](sirene-search.png)
 
 👍 On a le bon résultat en premier.
 
@@ -129,7 +129,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 🔗 [Election présidentielle des 23 avril et 7 mai 2017 - Résultats du 2ème tour](https://www.data.gouv.fr/fr/datasets/resultats-de-lintegralite-des-elections-depuis-2001/)
 
-![](20170711-joel/search-intégralité-élections.png)
+![](search-intégralité-élections.png)
 
 À propos des métadonnées :
 
@@ -137,13 +137,13 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 * 😤 La granularité est fausse
 * 😤 Il n'y a _que 2 lignes de description_
 
-![](20170711-joel/dataset-dates.png)
+![](dataset-dates.png)
 
 > D'ailleurs quand je vois XML, dans ma tête je traduis par XL (Excel).
 
 🤔 L'encart _Détails_ n'en contient d'ailleurs pas davantage.
 
-![](20170711-joel/dataset-details.png)
+![](dataset-details.png)
 
 > Je sais qu'il y a un guide technique pour utiliser les données mais il n'apparait pas.
 

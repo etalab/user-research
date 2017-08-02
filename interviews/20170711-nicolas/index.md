@@ -56,7 +56,7 @@ Il lui manque les jeux de données suivants :
 
 😤 Le dernier rapport en ligne date de 2008 alors qu'il devrait y en avoir eu d'autres depuis.
 
-![](20170711-nicolas/amf-bdif.png)
+![](amf-bdif.png)
 
 ---
 
@@ -64,7 +64,7 @@ Il lui manque les jeux de données suivants :
 
 > Je ne sais pas si vous voyez Google Trends ? _Les Décodeurs_ rebondissent en général assez vite.
 
-![](20170711-nicolas/google-trends.png)
+![](google-trends.png)
 
 
 💬 Par rapport aux données électorales, on aimerait avoir le découpage géographique par (code de) canton.
