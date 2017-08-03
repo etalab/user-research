@@ -28,27 +28,27 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 > Je ne fais pas confiance à l'autocomplete car les propositions sont vieilles.
 
-![](20170713-pierre/budget-autocomplete.png)
+![](budget-autocomplete.png)
 
 ❗️ D'ailleurs en validant le formulaire, ça ne lance pas la recherche mais emmène vers le jeu de données précédemment survolé.
 
-![](20170713-pierre/budget-autocomplete-hover.png)
+![](budget-autocomplete-hover.png)
 
 ❗️ Et une fois survolé, il est impossible de le désélectionner.
 
 🔍 "[budget état](https://www.data.gouv.fr/fr/search/?q=budget+%C3%A9tat)"
 
-![](20170713-pierre/search-budget-etat.png)
+![](search-budget-etat.png)
 
 😨 4293 résultats, j'en fais quoi ?
 
-![](20170713-pierre/search-badges.png)
+![](search-badges.png)
 
 ❓ Ils veulent dire quoi les badges ?
 
 ➡️ Cherche MinéFi / DGFip dans les facettes _parce que je sais_ qu'ils peuvent produire les données du budget.
 
-![](20170713-pierre/search-budget-etat-plf-plr.png)
+![](search-budget-etat-plf-plr.png)
 
 ❓ Je suis censé savoir à quoi correspondent les titres ?
 
@@ -56,17 +56,17 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 🔍 "[loi de finance 2016](https://www.data.gouv.fr/fr/search/?q=loi+de+finance+2016)"
 
-![](20170713-pierre/loi-de-finance-autocomplete.png)
+![](loi-de-finance-autocomplete.png)
 
 😯 Rien de récent.
 
-![](20170713-pierre/loi-de-finance-2016-autocomplete.png)
+![](loi-de-finance-2016-autocomplete.png)
 
 😤 Rien du tout (en autocomplete).
 
 (On lance la recherche)
 
-![](20170713-pierre/search-loi-finance-2016.png)
+![](search-loi-finance-2016.png)
 
 > On choisit lequel ?
 
@@ -87,7 +87,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 > Je n'ai pas assez de connaissances sur le budget pour comprendre ce qui est produit.
 
-![](20170713-pierre/plf-description.png)
+![](plf-description.png)
 
 🤔 Ah, _projet de loi de finance_. Ce n'est qu'une annexe ? Je dois faire une nouvelle recherche pour trouver des données budgétaires.
 
@@ -102,13 +102,13 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 ❓ Comment comprendre la structure du budget
 
-![](20170713-pierre/dataset-metadata.png)
+![](dataset-metadata.png)
 
 😯 Ah tiens il manque la licence.
 
 🤔 Le reste ne me dit pas grand chose pour comprendre.
 
-![](20170713-pierre/dataset-org.png)
+![](dataset-org.png)
 
 ❓ Il se passe quoi si je clique sur le "+", ça déplie le reste de la description ?
 
@@ -140,7 +140,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 > Ah tiens, quand je double-clique sur le fichier CSV, Excel se lance mais sans faire le _distingo_ des colonnes.
 
-![](20170713-pierre/dataset-spreadsheet.png)
+![](dataset-spreadsheet.png)
 
 😤 Les données démarrent en quatrième ligne.
 
