@@ -20,11 +20,11 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 🔍 "[élections](http://www.data.gouv.fr/fr/search/?q=%C3%A9lections)" pour trouver les résultats des élections 
 
-![](20170711-pascal/élections-autocomplete.png)
+![](élections-autocomplete.png)
 
 🤔 Pourquoi l'autocomplete montre des résultats aussi vieux ?
 
-![](20170711-pascal/élections-beauvau-tag.png)
+![](élections-beauvau-tag.png)
 
 😤 Même en triant par le _producteur attendu_ et un mot-clé explicite du jeu de données, rien d'évident ne remonte.
 
@@ -36,13 +36,13 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 🤔 Les thématiques font très _organisation ministérielle_ alors qu'en réalité, la santé, le social, l'éducation (entres autres) font également partie des _Territoires_ — terme regroupant régions et départements.
 
-![](20170711-pascal/themes.png)
+![](themes.png)
 
 ---
 
 🔍 "[RSA](https://www.data.gouv.fr/fr/search/?q=rsa)"
 
-![](20170711-pascal/rsa-autocomplete.png)
+![](rsa-autocomplete.png)
 
 > Je ne sais pas si l'autocomplete affiche l'exhaustivité des résultats donc je lance la recherche quand même.
 
@@ -52,9 +52,9 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 🔗 "[allocataires du RSA](https://www.data.gouv.fr/fr/datasets/allocataires-du-rsa-30378531/)"
 
-![](20170711-pascal/allocataires-du-rsa.png)
+![](allocataires-du-rsa.png)
 
-![](20170711-pascal/allocataires-du-rsa-details.png)
+![](allocataires-du-rsa-details.png)
 
 🤔 La couverture temporelle et le détail des dates sont confus — la date de publication est plus récente que la date de création — la date de modification est antérieure à la date de création.
 
@@ -70,7 +70,7 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 > J'utilisais de temps en temps [territoire.data.gouv.fr](http://territoire.data.gouv.fr/)
 
-![](20170711-pascal/territoire.data.gouv.fr.png)
+![](territoire.data.gouv.fr.png)
 
 💬 J'aimerais bien pouvoir automatiser le découpage géographique pour animer la redistribution au niveau local.
 
@@ -78,7 +78,7 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 😕 Les thématiques mènent à des 404.
 
-![](20170711-pascal/404.png)
+![](404.png)
 
 ❓ Le site est-il mort ?
 
@@ -95,7 +95,7 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 💬 En gros, voir les données, peut-être pouvoir les filtrer. Un peu comme Rennes et le jeu de données des _élections présidentielles 2017_ ?
 
-![](20170711-pascal/data-rennes-elections.png)
+![](data-rennes-elections.png)
 
 ---
 
@@ -178,7 +178,7 @@ Pascal est co-animateur du [premier référentiel de bonnes pratiques open data]
 
 😕 Pourquoi suis-je mal noté alors que j'utilise un vocabulaire normalisé pour certaines informations ?
 
-![](20170711-pascal/aires-covoiturage-gironde.png)
+![](aires-covoiturage-gironde.png)
 
 
 ## Conclusion
