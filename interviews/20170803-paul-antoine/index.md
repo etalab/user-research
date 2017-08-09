@@ -159,7 +159,7 @@ Prenons un autre exemple de **couverture géographique**.
 - 👍 Je vois le **nom des colonnes**, c'est important
 - 👍 Le descriptif est informatif (c'est une **notice** en réalité)
 
-![](dataset-nombre-embauche.png)
+![](dataset-nombre-embauches.png)
 
 > Je **télécharge** pour **voir** les données.
 
