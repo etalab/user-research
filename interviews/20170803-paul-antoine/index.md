@@ -137,8 +137,83 @@ Prenons un autre exemple de **couverture géographique**.
 
 ❗️ C'est pénalisant car je **galère** les retrouver et à les rassembler.
 
+---
+
+🔍 "[tableau de bord projets SI](https://www.data.gouv.fr/fr/search/?q=tableau+de+bord+projets+SI)"
+
+🤔 Pas de résultat correspondant à ce que je cherche.
+
+🔍 "[DINSIC](https://www.data.gouv.fr/fr/search/?q=dinsic)"
+
+![](search-dinsic.png)
+
+😅 Ah c'était _panorama_ et non _tableau de bord_.
+
+🔗 "[Panorama des grands projets SI de l’État](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)"
+
 
 ## Thématique • Compréhension des données
+
+🔗 "[Nombre d'embauches par code APE et code ROME](https://www.data.gouv.fr/fr/datasets/nombre-dembauches-par-code-ape-et-code-rome/)"
+
+- 👍 Je vois le **nom des colonnes**, c'est important
+- 👍 Le descriptif est informatif (c'est une **notice** en réalité)
+
+![](dataset-nombre-embauche.png)
+
+> Je **télécharge** pour **voir** les données.
+
+😤 Les métadonnées sont rarement à jour donc par défaut, je les zappe.
+
+😯 D'ailleurs la **granularité** est incorrecte (`Autre` au lieu de `Nationale`)
+
+![](dataset-nombre-embauches-metadata.png)
+
+❗️ Même en étant _expert_ et en _ayant produit_ le jeu de données, on n'a pas su interpréter le sens du libellé.
+
+---
+
+❓ D'ailleurs les **dates de couverture ne sont pas claires** : pour un budget, elles concernent quelle année fiscale ?
+
+---
+
+🔗 "[Impôt de solidarité sur la fortune](https://www.data.gouv.fr/fr/datasets/impot-de-solidarite-sur-la-fortune/)"
+
+![](dataset-isf.png)
+
+💬 Si on avait les **variables**, on aurait **tout**. Pour des données _tabulaires_, c'est _évident_.
+
+> S'il y a une colonne intitulée **commune**, je me dis qu'il y a **1 ligne de données par commune**.
+
+💬 Ça serait bien avoir le nom des colonnes et quelques valeurs possibles. Comme avec `dplyr#glimpse` en R.
+
+![](glimpse.png)
+
+> La _vue tabulaire_ ? C'est plutôt pour **filtrer**.
+
+💬 Si j'avais cette vue, probablement que je ne téléchargerai pas les ressources. Ça **simplifierait** beaucoup de choses.
+
+💬 Si on avait une **sémantique**, on pourrait joindre les données plus facilement — sur le **code communes** par exemple.
+
+---
+
+> En tant que **datascientist**, j'ai besoin de répondre à des questions comme **la corrélation entre le taux d'abstention et les revenus**, par exemple.
+
+➡️ J'ai utilisé un script appelé [Open-Moulinette](https://github.com/anthill/open-moulinette) pour obtenir un découpage intracommunal.
+
+---
+
+![](dataset-popup.png)
+
+> Dans une _popup_ de **ressource de dataset**, c'est l'_URL_ qui est utile.
+
+🤔 Je **ne comprends pas bien** la différence entre les 2 URLs.
+
+💬 `Permalien` me paraitrait plus clair que `Dernière URL`.
+
+🤔 En fait on a **3 fois** l'URL de téléchargement dans la _popup_, 3 clics qui sont la même chose.
+
+> J'**aime bien** avoir l'URL en clair pour la copier.
 
 ## Thématique • Utilisation des données
 
@@ -187,6 +262,23 @@ Prenons un autre exemple de **couverture géographique**.
 🗣 **On ne bénéficie pas assez de l'_intelligence_ de la communauté**.
 
 ❓ Quelles sont les incitations à contribuer ?
+
+---
+
+> J'ai **assez peu de réponses** à mes commentaires.
+
+😞 Les _ressources communautaires_ ne sont **pas mises en valeur**.
+
+🤔 La différence avec les _réutilisations_ ne sont **pas toujours claires**.
+
+Par exemple sur 🔗 "[Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)"
+
+- ❓ la **version géocodée** est très utile — **comment la faire remonter** ?  
+![](dataset-sirene-geocode.png)
+- ❓ la [documentation base SIRENE](https://www.data.gouv.fr/fr/reuses/documentation-de-la-base-sirene/), j'ai **hésité** à la classer en **documentation** ou **ressource**  
+![](dataset-sirene-doc.png)
+
+> Je regarde les **réutilisations** par curiosité, pour voir **d'autres façons** de faire.
 
 ## Conclusion
 
