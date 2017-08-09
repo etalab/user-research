@@ -220,6 +220,33 @@ Prenons un autre exemple de **couverture géographique**.
 - ➡️ [csvkit](https://github.com/wireservice/csvkit) ([doc](https://csvkit.readthedocs.io/))
 - ➡️ [agate](https://github.com/wireservice/agate) ([doc](https://agate.readthedocs.io/))
 
+🗣 Systématiquement quand je nettoie :
+
+1. en m'assurant qu'il n'y ait **pas de nom de colonnes identique**
+2. en vérifiant que **chaque colonne corresponde à une variable seulement**
+
+😤 Par exemple, avoir une variable éclatée sur plusieurs colonnes est pénible :
+
+| SIRENE | 2013 | 2012 | 2011 |
+|---|---|---|---|
+| … | … | … | … |
+
+C'est mieux d'avoir **une variable par colonne, sur plusieurs lignes** :
+
+| SIRENE | Chiffre d'Affaires | Année |
+|---|---|---|
+| … | … | … |
+
+> Dans le cas du SIRENE il faudrait que ça soit _par déclaration_ même…
+
+➡️ Cf. le papier [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf) par _Hadley Wickham_.
+
+> C'est l'équivalent de la **forme normale** pour les données. C'est **plus facile** à manipuler.
+
+💬 D'ailleurs on pourrait publier des vidéos pour aider à mieux contribuer des données ?
+
+💬 Avoir des [Data Packages](http://data.okfn.org/data) pourrait aider à diffuser la sémantique.
+
 ## Thématique • Contribution des données
 
 ![](admin-notifications.png)
@@ -261,8 +288,6 @@ Prenons un autre exemple de **couverture géographique**.
 
 🗣 **On ne bénéficie pas assez de l'_intelligence_ de la communauté**.
 
-❓ Quelles sont les incitations à contribuer ?
-
 ---
 
 > J'ai **assez peu de réponses** à mes commentaires.
@@ -280,9 +305,39 @@ Par exemple sur 🔗 "[Base Sirene des entreprises et de leurs établissements (
 
 > Je regarde les **réutilisations** par curiosité, pour voir **d'autres façons** de faire.
 
+---
+
+> C'est **difficile** de repérer l'ensemble des données produite par une _organisation_ lorsque ses _sous-organisations_ publient aussi — typiquement `Premier Ministre > SGMAP > DINSIC > Etalab`.
+
+💬 Ça serait logique de voir les jeux de données de `Etalab` en listant celles de `Premier Ministre`.
+
+---
+
+> Finalement quand tu postes sur data.gouv.fr, c'est pas comme sur Twitter, **tu as peu de retours**.
+
+❓ Où sont les chercheurs ?
+
+💬 Ils sont beaucoup évalués sur leurs _publications_, ça pourrait être un **axe de valorisation** de _bases de données_ et de _logiciels_.
+
+> Ça justifierait des **subventions**.
+
+💬 Avoir un [Digital Object Identifier (DOI)](https://fr.wikipedia.org/wiki/Digital_Object_Identifier) par ressource/jeu de données pour aider à identifier les mentions scientifiques — ça ne reviendrait pas à **utiliser _webmentions_** ?
+
+---
+
+❓ Quelles sont les incitations à contribuer ?
+
+J'en vois 3 :
+
+1. Lors du concours Data Connexion ;
+2. Pour être embauché par Etalab ;
+3. Quand tu es embauché par Etalab.
+
+
+
 ## Conclusion
 
-N/A
+> **Augmenter le nombre de réutilisations** est plus important que et amène intrinsèquement à **améliorer la qualité des données**.
 
 ## ROTI • Retour sur le Temps Investi
 
