@@ -44,7 +44,8 @@ Deux jeux de données ont été principalement été utilisés dans le cadre de 
 1. 👉 "[Download the Sirene database](https://www.sirene.fr/sirene/public/static/acces-donnees?sirene_locale=en)"    
 1. 👉 "[data-gouv](https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)"     
 ![](sirene-database-download.png)
-1. 🗣 Identification de la mise à jour mensuelle  
+1.   🔗 "[Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)](https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)"  
+🗣 Identification de la mise à jour mensuelle  
 C'est plus facile à traiter et c'était **suffisant en terme de précision de données**.
 
 ![](dataset-sirene-stock.png)
@@ -86,11 +87,67 @@ C'est plus facile à traiter et c'était **suffisant en terme de précision de d
 
 ➡️ [Data Mill North](https://datamillnorth.org/) (région de Leeds, Angleterre)
 
+--- 
+
+> Pour mes usages, je cherche surtout des jeux de **données locales qui ont une granularité à la ville**.
+
+💬 Si je ne les trouve pas dans Google, il y a peu de chances que je les trouve quelque part.
+
 
 ## Thématique • Compréhension des données
 
+🤔 Je n'ai pas compris la différence entre [BAN](https://www.data.gouv.fr/en/datasets/ban-base-adresse-nationale/) et [BANO](https://www.data.gouv.fr/en/datasets/base-d-adresses-nationale-ouverte-bano/).
+
+---
+
+🤔 Je n'ai jamais trop compris les subtilités des licences d'utilisation.
+
+---
+
+🔗 "[Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)](https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)"
+
+Pour comprendre :
+
+1.  Je **lis la description**, j'essaie d'en tirer des informations importantes ;
+2.  Je **regarde la licence** — elle est **ouverte** ? Alors tant mieux, je peux utiliser les données.
+
+🙃 La taille de la base Sirene ? Oui c'était une **surprise** d'en télécharger autant.
+
+![](dataset-sirene-licence.png)
+
+> Le moins il y a de contraintes, mieux c'est.
+
+> **La meilleure documentation, ce sont les gens** : des exemples d'utilisation et les billets de blog explicatifs.
+
+👍 Ah, je n'avais pas vu les réutilisations sous les ressources ! C'est super. Si j'avais su plus tôt ça m'aurait donné d'autres idées. J'aurais peut-être passé moins de temps à chercher de la documentation — surtout avec la version géocodée.
+
+![](dataset-sirene-geocodes.png)
+
+
+👍 Ah il y'a une réutilisation qui documente les colonnes ? Trop bien !
+
+![](dataset-sirene-documentation.png)
+
+
 ## Thématique • Utilisation des données
 
+> Est-ce que je republie des jeux de données ? Non car ça prend **trop de temps et d'efforts** — un temps pour lequel on n'est pas payé. On ne peut pas se le permettre.
 
+> C'est d'ailleurs souvent peu pertinent (on enlève des colonnes, nettoie et filtre des lignes).    
+> Cela incombe qu'on maintienne les mises à jours des jeux de données dérivés. On ne
+
+---
+
+> Entre une licence qui oblige à la redistribution des données et celle qui n'oblige pas à la redistribution des données, **je choisirai toujours la licence qui n'oblige pas à la redistribution des données modifiées**.
+
+💬 Par contre **je partagerai toujours les artéfacts issues de l'analyse des données**.
+
+> Principalement car **je ne _modifie_ pas les données mais les _adapte_ au contexte de mon projet**.
+
+---
+
+😤 Les données sur les entreprises britanniques ne sont pas très complètes et coûtent cher — j'en aurai des bien meilleures auprès de compagnies privées, mais ça me coûtera encore plus cher.
+
+👍 Les données françaises de la base Sirene sont largement bien **plus utiles et plus riches**.
 
 ## ROTI • Retour sur le Temps Investi
