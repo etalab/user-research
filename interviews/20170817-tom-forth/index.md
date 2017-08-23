@@ -138,7 +138,7 @@ Pour comprendre :
 > Est-ce que je republie des jeux de données ? Non car ça prend **trop de temps et d'efforts** — un temps pour lequel on n'est pas payé. On ne peut pas se le permettre.
 
 > C'est d'ailleurs souvent peu pertinent (on enlève des colonnes, nettoie et filtre des lignes).    
-> Cela incombe qu'on maintienne les mises à jours des jeux de données dérivés. On ne
+> Cela incombe qu'on maintienne les mises à jours des jeux de données dérivés.
 
 ---
 
