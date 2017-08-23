@@ -128,6 +128,10 @@ Pour comprendre :
 
 ![](dataset-sirene-documentation.png)
 
+👍 La rubrique "Contributions communautaires" ? C'est une très bonne idée.
+
+🤔 C'est dommage par contre qu'elle soit si bas dans la page, et aussi peu visible.
+
 
 ## Thématique • Utilisation des données
 
@@ -150,4 +154,54 @@ Pour comprendre :
 
 👍 Les données françaises de la base Sirene sont largement bien **plus utiles et plus riches**.
 
+---
+
+😤 La manipulation de données géographiques au Royaume-Uni est un casse-tête sans nom : les lieux sont réaffectés régulièrement (pas de continuité possible entre 2 mises à jour), il n'y a pas de coordonnées GPS et il n'y a pas de base d'adresse nationale _gratuite_.
+
+💬 C'est un **gros plus** si le couple latitude/longitude est présent dans les jeux de données.
+
+💬 La **consistance des identifiants** est primordiale.
+
+➡️ [Classification géographique européenne NUTS](http://ec.europa.eu/eurostat/web/nuts/overview)
+
+---
+
+🔗 "[Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)
+](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)"
+
+> **Je ne pouvais pas trouver la documentation** donc j'ai déblayé à la main, notamment en **supprimant les colonnes qui me sont inutiles**.
+
+🤔 Pourquoi il y a autant de colonnes ?
+
+👍 J'ai découvert qu'il y avait des codes NAF complémentaires pour chaque entreprise, ça permet de gagner en subtilité dans l'analyse.
+
+> Ça nous a permis de voir que les boutiques _Orange_ emploient chacune environ 10 personnes ; tout en sachant combien de salarié·e·s travaillaient en tout pour le groupe.
+
+🛠 Cf. colonnes `LIBTEFEN`, `EFETCENT` et `EFENCENT`.
+
+> **En général on va vite** parce qu'on n'a pas le temps de s'étaler à comprendre la signification de chaque colonne.
+
+---
+
+😊 Un de mes jeux de données favori, c'est le menu des cantines scolaires de Rennes.
+
+🔗 "[Menus des cantines des écoles](https://data.rennesmetropole.fr/explore/dataset/menus-cantines/)"
+
+---
+
+😤 C'est **pénible quand les ressources ne sont pas encodées en UTF-8**, je me retrouve avec des caractères bizarres (j'imagine pour les accents etc.) 
+
 ## ROTI • Retour sur le Temps Investi
+
+👍 Cet entretien m'a été utile pour 2 raisons :
+
+1. pour mieux comprendre ce qui se passe en France ;
+2. parce que j'ai la chance de pouvoir impulser du changement au Royaume-Uni.
+
+> On peut changer les choses en Angleterre si on dit qu'elles sont mieux faites en France.
+
+🗣 L'**enjeu de la couverture et de la granularité des données** est important :
+
+- les données nationales sans granularité à la commune sont peu utiles ;
+- c'est "facile" d'impulser l'ouverture des données au niveau national mais chaque acteur local doit _actionner_ cet effort de lui-même, avec son propre argent ;
+- or les données locales sont les plus _utiles_ car elles ont l'impact le plus direct sur nos vies.
