@@ -100,7 +100,7 @@ Prenons un autre exemple de **couverture géographique**.
 
 ---
 
-😤 Je n'ai aucun moyen de chercher des données qui correspondent à la France entière.
+😤 Je n'ai aucun moyen de chercher des données qui correspondent à la France entière. Le filtre "Couverture géographique" devrait signifier "couvre toute cette zone" plutôt que "est inclu dans cette zone"
 
 ---
 
@@ -135,7 +135,7 @@ Prenons un autre exemple de **couverture géographique**.
 
 ![](infogreffe-chiffres-cles.png)
 
-❗️ C'est pénalisant car je **galère** les retrouver et à les rassembler.
+❗️ C'est pénalisant car je **galère** à les retrouver et à les rassembler.
 
 ---
 
@@ -181,11 +181,11 @@ Prenons un autre exemple de **couverture géographique**.
 
 ![](dataset-isf.png)
 
-💬 Si on avait les **variables**, on aurait **tout**. Pour des données _tabulaires_, c'est _évident_.
+💬 Si on avait la liste des **variables**, on aurait **tout**. Pour des données _tabulaires_, c'est _évident_.
 
 > S'il y a une colonne intitulée **commune**, je me dis qu'il y a **1 ligne de données par commune**.
 
-💬 Ça serait bien avoir le nom des colonnes et quelques valeurs possibles. Comme avec `dplyr#glimpse` en R.
+💬 Ça serait bien d'avoir le nom des colonnes et quelques valeurs possibles. Comme avec `dplyr#glimpse` en R.
 
 ![](glimpse.png)
 
@@ -199,7 +199,7 @@ Prenons un autre exemple de **couverture géographique**.
 
 > En tant que **datascientist**, j'ai besoin de répondre à des questions comme **la corrélation entre le taux d'abstention et les revenus**, par exemple.
 
-➡️ J'ai utilisé un script appelé [Open-Moulinette](https://github.com/anthill/open-moulinette) pour obtenir un découpage intracommunal.
+➡️ On a utilisé un script appelé [Open-Moulinette](https://github.com/anthill/open-moulinette) pour obtenir un découpage intracommunal.
 
 ---
 
@@ -209,7 +209,7 @@ Prenons un autre exemple de **couverture géographique**.
 
 🤔 Je **ne comprends pas bien** la différence entre les 2 URLs.
 
-💬 `Permalien` me paraitrait plus clair que `Dernière URL`.
+💬 `Permalien` me paraîtrait plus clair que `Dernière URL`.
 
 🤔 En fait on a **3 fois** l'URL de téléchargement dans la _popup_, 3 clics qui sont la même chose.
 
@@ -237,13 +237,13 @@ C'est mieux d'avoir **une variable par colonne, sur plusieurs lignes** :
 |---|---|---|
 | … | … | … |
 
-> Dans le cas du SIRENE il faudrait que ça soit _par déclaration_ même…
+> Dans le cas des chiffres clés Infogreffes, il faudrait une ligne par _déclaration_ (il peut y avoir plusieurs déclarations la même année avec des correctifs).
 
 ➡️ Cf. le papier [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf) par _Hadley Wickham_.
 
 > C'est l'équivalent de la **forme normale** pour les données. C'est **plus facile** à manipuler.
 
-💬 D'ailleurs on pourrait publier des vidéos pour aider à mieux contribuer des données ?
+💬 D'ailleurs on pourrait publier des tutoriels vidéos pour aider à mieux contribuer des données ?
 
 💬 Avoir des [Data Packages](http://data.okfn.org/data) pourrait aider à diffuser la sémantique.
 
@@ -274,7 +274,7 @@ C'est mieux d'avoir **une variable par colonne, sur plusieurs lignes** :
  
 ![](admin-datatable.png)
 
-❓ D'ailleurs, **pourquoi** il y a 2 interfaces ? Ce serait des chiffres qui seraient **utiles côté _front_**.
+❓ D'ailleurs, **pourquoi** il y a 2 interfaces ? Ce serait des chiffres qui seraient **utiles côté _front_**. 
 
 ---
 
@@ -309,7 +309,7 @@ Par exemple sur 🔗 "[Base Sirene des entreprises et de leurs établissements (
 
 > C'est **difficile** de repérer l'ensemble des données produite par une _organisation_ lorsque ses _sous-organisations_ publient aussi — typiquement `Premier Ministre > SGMAP > DINSIC > Etalab`.
 
-💬 Ça serait logique de voir les jeux de données de `Etalab` en listant celles de `Premier Ministre`.
+💬 Ça serait logique de voir les jeux de données de `Etalab` en listant celles de `Premier Ministre`. Il faudrait dire que `Etalab` "est membre" de la `DINSIC` qui "est membre" du `SGMAP`, qui "est membre" de `Premier Ministre`
 
 ---
 
@@ -330,7 +330,7 @@ Par exemple sur 🔗 "[Base Sirene des entreprises et de leurs établissements (
 J'en vois 3 :
 
 1. Lors du concours Data Connexion ;
-2. Pour être embauché par Etalab ;
+2. Pour être embauché par Etalab :) ;
 3. Quand tu es embauché par Etalab.
 
 
