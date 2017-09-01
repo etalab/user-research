@@ -17,5 +17,6 @@ Entretiens avec :
 * [Joel Gombin](interviews/20170711-joel/index.md)
 * [Nicolas Barthe-Dejean](interviews/20170711-nicolas/index.md)
 * [Pascal Romain](interviews/20170711-pascal/index.md)
+* [Paul-Antoine Chevalier](interviews/20170803-paul-antoine/index.md)
 
 [datagouv]: https://data.gouv.fr/
