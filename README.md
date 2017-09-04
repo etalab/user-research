@@ -21,6 +21,7 @@ Consulter le transcript des entretiens avec :
 * [Paul-Antoine Chevalier](interviews/20170803-paul-antoine/index.md)
 * [Tom Forth](interviews/20170817-tom/index.md)
 * [Antoine Sirven](interviews/20170824-antoine/index.md)
+* [Alexiane Lerouge](interviews/20170904-alexiane/index.md)
 * [Philippe Guiraud](interviews/20170904-philippe/index.md)
 
 Le _suivi et la planification_ des entretiens est gérée depuis ce [_board_ Trello][].
