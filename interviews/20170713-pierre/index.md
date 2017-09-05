@@ -12,7 +12,7 @@ attendees:
 
 Pierre travaille dans le monde de l'Open Data depuis 2010 environ. Il a commencé comme chargé du numérique à l'ambassade de France à Londres lors de l'élaboration de [data.gouv.fr](https://www.data.gouv.fr/fr/).
 
-Pierre a participé à la production d'un rapport sur l'Open Data au Royaume-Uni, animé des conférences autour du sujet ce qui a par la suite mené à créer [Open Knowledge Foundation France](https://fr.okfn.org/).
+Pierre a participé à la production d'un rapport sur l'Open Data au Royaume-Uni, animé des conférences autour du sujet et co-fondé [Open Knowledge Foundation France](https://fr.okfn.org/).
 
 Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations à mettre en place des initiatives d'Open Data ainsi qu'à comprendre les utilisateurs, notamment pour le compte de la _Banque Mondiale_.
 
@@ -72,7 +72,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 🔗 [Loi de finances initiale pour 2016 (LFI 2016)](https://www.data.gouv.fr/fr/datasets/loi-de-finances-initiale-pour-2016-lfi-2016/)
 
-😯 18 ressources, ça fait beaucoup ! Combien je fais pour savoir quel est le budget voté pour Etalab dedans ?
+😯 18 ressources, ça fait beaucoup ! Comment je fais pour savoir quel est le budget voté pour Etalab dedans ?
 
 ---
 
@@ -122,7 +122,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 ❓ Il est où le lien vers le site du Ministère des Finances d'ailleurs ?
 
-> Il y'a certains jeux de données qui sont critiques à l'utilisation de la plate-forme ; notamment ceux des entreprises et relatifs à l'activité économique.
+> Il y'a certains jeux de données qui sont critiques pour l'utilisation des autres donnée ; par exemple le registre des entreprises pour toutes les données relatives à l'activité économique.
 
 * Le Danemark a le concept de [Basic Data](https://www.digst.dk/~/media/Files/English/Grunddata_UK_web_05102012_Publication.pdf) ([via](https://www.digst.dk/Servicemenu/English/Digitisation/Basic-Data))
 * La France a le [Service Public de la Donnée](https://www.data.gouv.fr/fr/reference)
@@ -173,7 +173,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 1. Il me faut un temps de compréhension
   * Titre des colonnes
   * Nettoyage des colonnes pour qu'elles aient toutes le même format de données
-2. S'il y a des identifiants pour les lignes/valeurs de colonnes c'est encore mieux (cf. Problèmes liés au génome car il manque les identifiants les gênes)
+2. S'il y a des identifiants pour les lignes/valeurs de colonnes c'est encore mieux (cf. Problèmes dans la recherche sur les génomes car les identifiants des gênes ne sont pas toujours les mêmes)
 
 > Tiens, prends _Open Data Soft_ avec ses jeux de données prêts à être réutilisés.
 
@@ -181,7 +181,7 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 
 > Par exemple avec la Banque Mondiale et le comptage de l'aide publique.
 > Combien est dépensé par les bailleurs de fond en Open Data et Systèmes d'information ?
-> Combien est dépensé pour de l'activisme Open Source ?
+> Combien est dépensé pour de l'Open Source ?
 > _Difficile_ à savoir aujourd'hui — tous les dépôts de données utilisent des taxonomies différentes.
 
 ℹ️ [IATI (International Aid Transparency Initiative)](http://www.aidtransparency.net/)
@@ -190,15 +190,15 @@ Par la suite, il s'est focalisé sur l'accompagnement de pays et d'organisations
 ---
 
 > Prends l'exemple des _Panama Papers_, qui est une _fuite_ combinée à de l'Open Data.
-> Sans les _listes d'entreprises_, ça n'était pas faisable.
+> Sans les _listes d'entreprises_ accessibles en open data, ça n'était pas faisable ou plus difficilement.
 
-💬 Ça serait bien de connaître la liste des bénéficiaires global des entreprises.
+💬 Ça serait bien de connaître la liste globale des bénéficiaires des entreprises.
 
 
 ## Conclusion
 
 > Avant, seuls celles et ceux qui avaient de l'argent pouvaient faire ce travail [de réutilisation des données].
-> Avec l'Open Data c'est devenu un pot commun.
+> Avec l'Open Data c'est devenu (en train de devenir) un pot commun.
 
 ## ROTI • Retour sur le Temps Investi
 
