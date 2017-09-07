@@ -12,7 +12,7 @@ Cette première série d'entretiens est destinée à faire émerger des élémen
 
 L'enjeu est de dégager des **actions courtes à impact fort** ainsi qu'une vision synthétique des **domaines et de leurs niveaux d'enjeux**.
 
-Entretiens avec :
+Consulter le transcript des entretiens avec :
 
 * [Joel Gombin](interviews/20170711-joel/index.md)
 * [Nicolas Barthe-Dejean](interviews/20170711-nicolas/index.md)
@@ -22,4 +22,7 @@ Entretiens avec :
 * [Tom Forth](interviews/20170817-tom/index.md)
 * [Antoine Sirven](interviews/20170824-antoine/index.md)
 
+Le _suivi et la planification_ des entretiens est gérée depuis ce [_board_ Trello][].
+
 [datagouv]: https://data.gouv.fr/
+[_board_ Trello]: https://trello.com/b/ENhCEfJL
