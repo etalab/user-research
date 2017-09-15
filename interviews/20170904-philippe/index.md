@@ -162,9 +162,9 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 6. Je choisis la _couverture spatiale_ …
     - > C'est important de mettre que ça concerne la France entière.
 
-![](admin-dataset-private-checkbox.png)
-
 ❓ **Pourquoi on choisirait de mettre un jeu de données _ouvert_ et _public_ en _privé_** ? 
+
+![](admin-dataset-private-checkbox.png)
 
 💬 Si c'était libellé _Brouillon_ à la place ? Ah oui, ça serait plus logique pour **préparer à la publication**, corriger les erreurs avant de mettre en ligne.
 
@@ -172,13 +172,36 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ---
 
-🔗 "résultat des élections présidentielles"
+🔗 "[Election présidentielle des 23 avril et 7 mai 2017 - Résultats définitifs du 2nd tour par communes](https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-23-avril-et-7-mai-2017-resultats-definitifs-du-2nd-tour-par-communes/)"
 
 1. 👉 Je sélectionne _Éditer_ ;
 2. 👉 J'arrive dans l'admin et je dois **cliquer à nouveau** sur _Éditer_ ;
 3. 😤 Quand je _ferme_ et clique sur le bouton _Précédent_ du navigateur, **la fenêtre de modification s'ouvre à nouveau**.
 
-⚠️⚠️⚠️ (détailler les étapes)
+![](loop-dataset-edit.png)
+
+![](loop-dataset-admin-edit.png)
+
+![](loop-dataset-admin-form.png)
+
+![](loop-dataset-admin-cancel.png)
+
+![](loop-dataset-admin.png)
+
+![](loop-dataset-admin-back.png)
+
+![](loop-dataset-admin-form.png)
+
+![](loop-dataset-admin-cancel.png)
+
+![](loop-dataset-admin.png)
+
+
+![](loop-dataset-admin-back.png)
+
+(...)
+
+
 
 😤 C'est une boucle sans fin.
 
