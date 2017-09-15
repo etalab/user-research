@@ -84,7 +84,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 🗣 Parlons de la section _jeux de données_ de la page _tableau de bord_.
 
-![](admin-dashboard-trafic.png)
+![](admin-org-datasets.png)
 
 - les _vues_ : c'est utile ;
 - le _statut_ : pas intéressant ;
@@ -106,7 +106,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ![](admin-dashboard-anomalies.png)
 
-😤 On ne sait pas si les anomalies ont été rectifiées, ni combien il y en a. On sait juste qu'il y en a, et qu'il faut aller les regarder une par une.
+😤 **On ne sait pas si les anomalies ont été rectifiées, ni _combien_ il y en a.** On sait juste qu'il y en a, et qu'il faut aller les regarder une par une.
 
 💬 Au niveau du _tableau de bord_, une **vue synthétique** serait plus utile, puis ensuite le **détail sur une page à part**.
 
@@ -147,7 +147,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 ![](admin-dataset-frequency.png)
 
 - 🎢 Il y en a **beaucoup des fréquences** ;
-- Les 🔗 "[données du RNA](#)", on les met à jour plusieurs fois par jour, **quasiment en temps réel**.
+- Les 🔗 "[données du RNA](https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations-rna/)", on les met à jour plusieurs fois par jour, **quasiment en temps réel**.
 
 
 4. Je choisis les _tags_ …
