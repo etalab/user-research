@@ -110,8 +110,6 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 💬 Au niveau du _tableau de bord_, une **vue synthétique** serait plus utile, puis ensuite le **détail sur une page à part**.
 
-⚠️⚠️⚠️ ![anomalie réserve parlementaire]()
-
 😤 Quand on clique sur une anomalie, on est emmené vers une autre page et on ne peut même pas fermer la popup.
 
 ---
@@ -120,8 +118,10 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 1. 👉 On en prend une au hasard ;
 2. 𝐓 On ajoute un commentaire de test sur une anomalie ;
-3. ❌ On ne peut pas supprimer ce commentaire de test ;
+3. ❌ On ne peut pas supprimer son propre commentaire ;
 4. 🤔 En fermant l'anomalie, le nombre de notifications est toujours à `73`, je ne comprends pas.
+
+![](admin-issue-comment.png)
 
 ---
 
