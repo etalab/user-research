@@ -12,24 +12,24 @@ attendees:
 
 Je suis conseiller auprès du délégué de l'information et de la communication (DICOM) ainsi que coordinateur Open Data pour le ministère de l'Intérieur.
 
-Notre objectif avec l'Open Data est la **transparence financière**, une **nouvelle relation avec les administrés** et de **favoriser l'économie**.
+Notre objectif avec l'Open Data est de contribuer à la transparence de l’action publique et ministérielle, de créer une **nouvelle relation avec les administrés et de favoriser l'innovation numérique**.
 
 > Souvent dans les ministères ce sont les _services statistiques_ qui s'occupent de l'Open Data mais à l'Intérieur, cette mission revient à la _communication_.
 
 Je suis impliqué dans l'Open Data depuis la création d'Etalab en 2011.
 
-On met à disposition environ **500 jeux de données** ventilés dans les thématiques suivantes :
+On met à disposition environ **550 jeux de données** ventilés dans les thématiques suivantes :
 
 - notre cœur de métier : les **données électorales** ;
-- **délinquance** (fourni par le service stats) — granularité au département ;
+- de la **délinquance** granularité au département ;
 - **sécurité routière** (accidentologie) — granularité fine ;
 - **associations / liberté publique** avec le RNA (via la Loi pour la République Numérique) ;
-- **collectivités territoriales / intercommunalité** ;
+- **collectivités territoriales / intercommunalité** et finances locales ;
 - **sécurité civile**.
 
-> Les anglais sont beaucoup plus précis que nous sur les chiffres de la délinquances (exemple sur [police.uk](https://www.met.police.uk/your-area/islington/mildmay/)) : la précision va jusqu'au quartier. Nous, nous  descendons au niveau du département. Question de culture.
+> Les anglais sont beaucoup plus précis que nous sur les chiffres de la délinquances (exemple sur [police.uk](https://www.met.police.uk/your-area/islington/mildmay/)) : la précision va jusqu'au quartier. Nous, nous  descendons au niveau du département. Question de culture. Mais cela peut évoluer à terme.
 
-🗣 On n'a pas encore de stratégie d'Open Data par défaut mais on va y venir. On espère ouvrir 5 à 10 jeux de données important dans les 2 prochaines années.
+🗣 On n'a pas encore de stratégie d'Open Data par défaut mais on y travaille. On espère ouvrir 5 à 10 jeux de données important dans les 2 prochaines années.
 
 🗣 On fonctionne en réseau au Ministère de l'Intérieur, avec des correspondants qui ouvrent les données.
 
@@ -43,7 +43,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 🤔 Je ne sais pas si l'abonnement marche bien. J'imagine qu'ils sont prévenus.
 
-> Les gens de mon ministère ne savent même pas qu'il y a des réutilisations.
+> Les gens de mon ministère ne savent pas toujours qu'il y a des réutilisations et que data.gouv.fr permet d’en voir.
 
 💬 C'est bien d'avoir un retour, pour l'administration/producteurs. Ça démontre l'utilité de leur travail.
 
@@ -55,7 +55,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 🗣 Certains jeux de données sont collectés manuellement, et plus rarement, automatiquement :
 
-- le **fichier des effectifs de la police** — le registre est collecté dans chaque commune, puis envoyé à la préfecture sous forme de fichiers Excel, 1 fois par an ;
+- le **fichier des effectifs de la police municipale** — le registre est collecté dans chaque commune, puis envoyé à la préfecture sous forme de fichiers Excel, 1 fois par an ;
 - l'**application élections** — elle pourrait automatiquement publier sur data.gouv.fr.
 
 ---
@@ -68,7 +68,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ❓ Ça veut dire quoi _Disponibilité de vos jeux de données : 0%_ ?
 
-❓ Quand je lis _218 abonnés_, c'est au niveau du Ministère de l'Intérieur ? Il me semblait qu'on en avait davantage…
+❓ Quand je lis _23 abonnés_, c'est au niveau du Ministère de l'Intérieur ? Il me semblait qu'on en avait davantage…
 
 ❓ _1 réutilisation_ ? Il me semblait qu'on en avait produite davantage…
 
@@ -88,15 +88,15 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 - les _vues_ : c'est utile ;
 - le _statut_ : pas intéressant ;
-- la _date de mofication_ : **la date de couverture serait plus utile** pour savoir si je dois mettre à jour mes jeux de données ;
-- la _date de création_ : pas intéressant ;
-- la _date de mise à jour des métadonées_ : pas intéressant.
+- la _date de modification_ : **la date de couverture serait plus utile** pour savoir si je dois mettre à jour mes jeux de données ;
+- la _date de création_ : peu intéressant ;
+- la _date de mise à jour des métadonées_ : peu intéressant.
 
 💬 Ça serait utile **de voir le nombre de téléchargements**, à date, de la dernière semaine ou du mois…
 
 💬 Ça serait utile aussi **de voir le nombre d'anomalies en suspens** pour chaque jeu de données. Je ne vais pas cliquer sur les 500 jeux de données pour le savoir…
 
-> Notre travail ce n'est pas _juste_ de mettre en ligne des données, c'est de **comprendre ce qu'en fait le public** sinon on n'en sait rien.
+> Notre travail ce n'est pas _juste_ de mettre en ligne des données, c'est aussi de **comprendre ce qu'en fait le public** sinon on n'en sait rien.
 
 💬 On est vraiment **intéressé de savoir ce qui fonctionne**.
 
@@ -146,7 +146,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ![](admin-dataset-frequency.png)
 
-- 🎢 Il y en a **beaucoup des fréquences** ;
+- 🎢 Il y en a **beaucoup, des fréquences** ;
 - Les 🔗 "[données du RNA](https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations-rna/)", on les met à jour plusieurs fois par jour, **quasiment en temps réel**.
 
 
@@ -157,12 +157,12 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 ![](admin-dataset-date-coverage.png)
 
 - 💬 Quand on a une fréquence annuelle, **ça fait beaucoup de champs à remplir**… d'ailleurs **on a aucune idée du jour de l'année** ;
-- > On ne va pas se coincer sur des dates qu'on ne connait pas.
+- 😤 On ne va pas se coincer sur des dates qu'on ne connait pas.
 
 6. Je choisis la _couverture spatiale_ …
-    - > C'est important de mettre que ça concerne la France entière.
+    - 🗣 C'est important de mettre que ça concerne la France entière.
 
-❓ **Pourquoi on choisirait de mettre un jeu de données _ouvert_ et _public_ en _privé_** ? 
+❓ **Pourquoi on choisirait de mettre un jeu de données _ouvert_ et _public_ en _privé_** ?
 
 ![](admin-dataset-private-checkbox.png)
 
@@ -265,7 +265,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ❓ Ils sont classés comment les jeux de données, dans quel ordre — par date ? (c'est ce qu'il me semblerait le plus logique, et ce que je voudrais accessoirement).
 
-> Si on avait les jeux de données les plus récents dans le tableau de bord, ça serait encore mieux. 
+> Si on avait les jeux de données les plus récents dans le tableau de bord, ça serait encore mieux.
 
 ---
 
@@ -283,7 +283,7 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 ![](admin-org-members.png)
 
-👍 **La nouvelle plate-forme est beaucoup plus facile pour publier**. C'est la nuit et le jour.
+👍 **La nouvelle plate-forme est beaucoup plus facile pour publier**. C'est le jour et la nuit.
 
 ---
 
@@ -296,11 +296,11 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 🗣 Par exemple, je clique sur 🔗 [_mon profil_](https://www.data.gouv.fr/fr/users/philippe-guiraud/) :
 
 1. 👀 liste de mes dernières activités ;
-2. 👉 "[31 suivis](https://www.data.gouv.fr/fr/users/philippe-guiraud/following/)"  
+2. 👉 "[31 suivis](https://www.data.gouv.fr/fr/users/philippe-guiraud/following/)"
 ❓ Ce sont les jeux de données suivis par le Ministère de l'Intérieur ? Je dis ça parce que je suis administrateur de cette organisation.
 ![](profile-following.png)
-3. 👉 "[1 jeu de données](https://www.data.gouv.fr/fr/users/philippe-guiraud/datasets/)"  
-🤔 Il n'y a aucun de listés dans la page et pourtant il me semblait en avoir créé 2 à mon nom.  
+3. 👉 "[1 jeu de données](https://www.data.gouv.fr/fr/users/philippe-guiraud/datasets/)"
+🤔 Il n'y a aucun de listés dans la page et pourtant il me semblait en avoir créé 2 à mon nom.
 ![](profile-datasets.png)
 
 🤔 Qu'est-ce qu'on peut voir sur son profil à part sa photo ?
@@ -316,4 +316,4 @@ On met à disposition environ **500 jeux de données** ventilés dans les théma
 
 😊 Je suis content d'avoir vu quelqu'un d'Etalab pour faire avancer les choses.
 
-> Ce sera un temps utile si on voit des changements dans les prochaines semaines, dans les prochains mois.
+> Ce sera un entretien utile si on voit des changements dans les prochaines semaines, dans les prochains mois.
