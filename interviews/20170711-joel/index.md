@@ -17,7 +17,7 @@ Joël accompagne les structures publiques et privées à l'_ouverture des donné
 2. Formation (culture, technique — avec [R](https://www.r-project.org/) notamment) ;
 3. Médiation (la CAF de Paris par exemple).
 
-Joël et [Datactivist](http://datactivi.st/) réalisent l'évaluation indépendante des engagements de la France au sein de l'[Open Government Partnership](https://www.opengovpartnership.org/) (_OGP_), mais aussi des engagements de la _Ville de Paris_ ([lire sa candidature à l'OGP](https://www.opengovpartnership.org/sites/default/files/Paris%20Candidacy%20OGP_0.pdf)).
+[Datactivist](http://datactivi.st/) réalise l'évaluation indépendante des engagements de la France au sein de l'[Open Government Partnership](https://www.opengovpartnership.org/) (_OGP_), mais aussi des engagements de la _Ville de Paris_ ([lire sa candidature à l'OGP](https://www.opengovpartnership.org/sites/default/files/Paris%20Candidacy%20OGP_0.pdf)).
 
 Joël est spécialisé dans la sociologie électorale quantitative. Pratique qu'il exerce depuis 2005.
 
@@ -29,7 +29,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 > Le moteur de recherche est perfectible.
 
-> Je cherche beaucoup de fois le terme [résultats](https://www.data.gouv.fr/fr/search/?q=r%C3%A9sultats) pour trouver des données d'élections. Le bon jeu de données est souvent _noyé_ dans les résultats.
+> Je cherche beaucoup de fois le terme [élections](https://www.data.gouv.fr/fr/search/?q=%C3%A9lections) pour trouver des données d'élections. Le bon jeu de données est souvent _noyé_ dans les résultats.
 
 😯 Aucun résultat n'est récent
 
@@ -82,7 +82,7 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 😤 C'est problématique car un jeu de données à couverture nationale contenant le même type d'information est _plus important_.
 
-🤔 Sans compter que chaque découpage local contient son lot de colonnes spécifiques et le reformante à sa sauce.
+🤔 Sans compter que chaque découpage local contient son lot de colonnes spécifiques et le reformate à sa sauce.
 
 ---
 
@@ -190,4 +190,4 @@ Enfin, Joël a participé à la création de [DODOData](http://www.dododata.io/)
 
 ## ROTI • Retour sur le Temps Investi
 
-N/C
+4
