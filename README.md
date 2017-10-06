@@ -6,7 +6,7 @@
 
 ## Workshop « prototype de téléchargement de sous-ensemble géographique »
 
-<video src="workshops/20171004-opendatalocale/note-writing2.mp4" height="300" controls></video>
+<img src="workshops/20171004-opendatalocale/workshop.jpg" width="500">
 
 Cet atelier a réuni une _trentaine de personnes_ lors de l'événement [Restitution intermédiaire publique Opendata Locale #2](http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publique-opendatalocale-2/) avec un public de collectivités, associations, institutions, éditeurs et entreprises.
 
@@ -15,6 +15,11 @@ Cet atelier a réuni une _trentaine de personnes_ lors de l'événement [Restitu
 # Entretiens en face à face
 
 ## Juillet-septembre 2017
+
+| | | |
+| --- | --- | --- |
+| Trouver un dataset plus facilement | Comprendre les frustrations  | Être au contact des communautés |
+| Enlever des features inutiles | Déveloper des features utiles | Savoir quoi montrer des datasets |
 
 Cette première série d'entretiens est destinée à faire émerger des éléments relatifs à ces 3 hypothèses :
 
