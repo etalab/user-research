@@ -10,8 +10,8 @@ event: http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publiq
 **Sommaire**
 
 - [Règles et organisation](#règles-et-organisation)
-- [Contributions](#contributions)
-- [vision-du-futur](#vision-du-futur)
+- [Contributions des participant·e·s](#contributions)
+- [Vision du futur](#vision-du-futur)
 
 ![](workshop.jpg)
 
@@ -39,9 +39,9 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 
 # Contributions
 
-<video src="note-writing.mp4" controls></video>
+[![](workshops/20171004-opendatalocale/note-writing2mp4)](workshops/20171004-opendatalocale/note-writing.mp4)
 
-<video src="note-writing2.mp4" controls></video>
+[![](workshops/20171004-opendatalocale/note-writing2.mp4)](workshops/20171004-opendatalocale/note-writing2.mp4)
 
 
 ## Écran « Index Territoires »
@@ -153,5 +153,62 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 
 ![](etalab-posters.jpg)
 
+## Page Territoire
+
+Les pages Territoire (département et commune) ont été _volontairement_ présentées à plat, sans tri — sans signaler cette intention aux participant·e·s.
+
+Deux envies se dégagent :
+
+- **trier les jeux de données par fraicheur**
+- organiser les jeux de données en **thématiques**
+
+Le **regroupement en thématiques** (urbanisme, social, etc.) semble être la piste communément acceptée comme mécanisme donnant davantage de lisibilité aux longues listes.
+L'intérêt de vocabulaires comme [Eurovoc][] aideraient à faire converger les portails vers des libellés normalisés.
+
+Ce regroupement en thématiques a mis en avant l'ambiguïté du _territoire_, celui-ci pouvant être perçu comme étant le _domaine_ de la collectivité en assurant sa gestion.
+Un traitement textuel pédagogique aiderait à **clarifier la portée de la page** et à **signifier ses intentions**.
+
+Par extension, la section "les acteurs du territoire" pourrait également bénéficier d'un traitement textuel pour clarifier l'intention de cette section.
+_Par exemple_ : <q>X acteurs locaux et Y acteurs nationaux ont publié Z jeux de données et Z' ressources téléchargeables sur data.gouv.fr</q>.
+
+La diversité des producteurs et des titres de jeux de données au sein d'une page ont mis en évidence une **inégalité de leur compréhension**, et donc de leur découverte ; certains titres étant particulièrement cryptiques.
+
+Deux envies se dégagent :
+
+- **recommander des titres** de jeux de données (contributions communautaires)
+- **donner des consignes rédactionnelles** pour aider à structurer les titres
+
+Certaines personnes ont mentionné la **comparabilité de jeux de données**, notamment en distinguant celles qui ne concernent _que_ ce territoire et celles qui s'étendent _au-delà_ du territoire.
+
+## Dataset
+
+Le **bouton Télécharger** a été compris. Il a suscité un intérêt à obtenir un équivalent du côté de l'API. Le scrapping a été mentionné. Certain·e·s participant·e·s ont indiqué que si on peut scrapper, on peut tout aussi facilement accéder à l'API.
+
+Par extension, <q>avoir la même chose sur mon site</q> revient régulièrement dans les discussions. La réintégration du widget `data.gouv.fr` et/ou le [widget Metaclic][] pourraient fournir des pistes d'intégration facile.
+
+Le **nombre de téléchargements** et le **poids du fichier** ont été compris et appréciés.
+
+Le **format et type des ressources** (tabulaire, géographique, etc.) n'étaient pas visibles. Leur traitement graphique devra être ajusté.
+
+Des personnes en charge de portails Open Data ont mentionné exposer les **addresses email de contact** (en tant que _producteur_ ou _mainteneur_). Ce n'est à ce jour pas exploité par `data.gouv.fr`.
+
+# API
+
+Des questionnements récurrents étaient liés à la _possibilité d'intégrer les données et métadonnées de pages de data.gouv.fr sur leurs propres portails_. Par exemple, pouvoir récupérer la liste des jeux de données d'une page Territoire ou les ressources d'une page Jeu de données.
+
+L'[API data.gouv.fr][] étaient la réponse systématique. Son utilité, sa documentation ou ce qu'elle retournait n'était pas ou peu connue, pas ou peu comprise.
+
+> L'API, elle est où ?
+
+> Est-ce que je peux intégrer les jeux de données et les métadonnées d'une page territoire, pour les intégrer sur mon portail à moi ?
+
+**Pistes possibles** :
+
+- présenter des commandes prêtes à l'emploi (type `curl`) au sein des pages de `data.gouv.fr` ;
+- animer des ateliers `data.gouv.fr/api` dans le cadre de la mission [Opendata Locale][].
 
 [data.gouv.fr]: https://www.data.gouv.fr/
+[widget Metaclic]: https://github.com/datakode/metaclic
+[Eurovoc]: http://eurovoc.europa.eu/
+[Opendata Locale]: https://opendatalocale.net/
+[API data.gouv.fr]: https://www.data.gouv.fr/api/
