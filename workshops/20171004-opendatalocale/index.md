@@ -44,7 +44,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 [![](workshops/20171004-opendatalocale/note-writing2.mp4)](workshops/20171004-opendatalocale/note-writing2.mp4)
 
 
-## Écran « Index Territoires »
+## Page « Index Territoires »
 
 ![](screen-territories-index.jpg)
 
@@ -59,7 +59,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 - Rendre visible les multicouches
 - Sélection géographique autre par l'emprise administrative (ex : par POI)
 
-## Écran « Territoire • Département »
+## Page « Territoire • Département »
 
 ![](screen-territories-dept.jpg)
 
@@ -80,7 +80,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 - URL stable ?
 
 
-## Écran « Territoire • Commune »
+## Page « Territoire • Commune »
 
 ![](screen-territories-town.jpg)
 
@@ -98,7 +98,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 - Le logo laisse à penser que ce sont les données produites par la ville
 
 
-## Écran « Dataset • Téléchargement de sous-ensemble »
+## Page « Dataset • Téléchargement de sous-ensemble »
 
 
 ### Variante : fonctionnalité disponible (dropdown fermée)
@@ -130,7 +130,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 - Le label « producteur certifié » permet de se rassurer sur la pérénité de la donnée (mise à jour régulières + qualité)
 - Difficulté de gérer métropole et DOM/TOM sur la même carte
 - Mieux revaloriser les réutilisations (cf. bloc noir en bas de la page)
-- La commuinauté doit-elle envisager de rajouter d'autres langages ? (type PHP, Perl, etc.)
+- La communauté doit-elle envisager de rajouter d'autres langages ? (type PHP, Perl, etc.)
 
 ### Variante : fonctionnalité disponible (nombreuses ressources)
 
@@ -140,7 +140,7 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 
 - Partager sur mon site / ma page / mon mur
 - Homonymes (cf. titres de ressources quasi identiques)
-- On ne voti pas assez le filtre territorial
+- On ne voit pas assez le filtre territorial
 - Laisser l'utilisateur faire un choix de périodicité (ex ne pas afficher d'emblée le journaliser sur SIRENE)
 - Isoler la documentation du jeu
 - Pourquoi pas un service web plutôt qu'un fichier par jour ?
@@ -153,7 +153,17 @@ Les durées étaient données à _titre indicatif_ : rien n'a été fait pour le
 
 ![](etalab-posters.jpg)
 
-## Page Territoire
+## Page « Index Territoires »
+
+La présence de _carte_ fait systématiquement remonter la quadrature échelle/complétude d'affichage de la France et des territoires d'outre-mer.
+
+**Piste possible** :
+
+- un participant indiquait avoir résolu ce problème ; il serait susceptible de partager sa méthode avec nous.
+
+La **navigabilité de la carte** est également mentionnée. Pour entamer une navigation autrement que par région ; avec un autre niveau de granularité, par liste ou par le biais de la carte.
+
+## Page « Territoire »
 
 Les pages Territoire (département et commune) ont été _volontairement_ présentées à plat, sans tri — sans signaler cette intention aux participant·e·s.
 
@@ -180,7 +190,7 @@ Deux envies se dégagent :
 
 Certaines personnes ont mentionné la **comparabilité de jeux de données**, notamment en distinguant celles qui ne concernent _que_ ce territoire et celles qui s'étendent _au-delà_ du territoire.
 
-## Dataset
+## Page « Dataset »
 
 Le **bouton Télécharger** a été compris. Il a suscité un intérêt à obtenir un équivalent du côté de l'API. Le scrapping a été mentionné. Certain·e·s participant·e·s ont indiqué que si on peut scrapper, on peut tout aussi facilement accéder à l'API.
 
@@ -191,6 +201,8 @@ Le **nombre de téléchargements** et le **poids du fichier** ont été compris 
 Le **format et type des ressources** (tabulaire, géographique, etc.) n'étaient pas visibles. Leur traitement graphique devra être ajusté.
 
 Des personnes en charge de portails Open Data ont mentionné exposer les **addresses email de contact** (en tant que _producteur_ ou _mainteneur_). Ce n'est à ce jour pas exploité par `data.gouv.fr`.
+
+La présence du logo « producteur certifié » rassure. Il interroge néanmoins, entre autres de par l'absence d'explications : qu'est-ce que ça implique et comment l'obtenir ?
 
 # API
 
