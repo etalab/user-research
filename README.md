@@ -6,6 +6,8 @@
 
 ## Workshop « prototype de téléchargement de sous-ensemble géographique »
 
+<video src="workshops/20171004-opendatalocale/note-writing2.mp4" height="300" controls></video>
+
 Cet atelier a réuni une _trentaine de personnes_ lors de l'événement [Restitution intermédiaire publique Opendata Locale #2](http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publique-opendatalocale-2/) avec un public de collectivités, associations, institutions, éditeurs et entreprises.
 
 📝 [Consulter la méthode et les résultats du workshop](workshops/20171004-opendatalocale/index.md)

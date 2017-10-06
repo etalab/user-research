@@ -7,15 +7,23 @@ event: http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publiq
 
 # Workshop « prototype de téléchargement de sous-ensemble géographique »
 
-![](etalab-posters.jpg)
+**Sommaire**
+
+- [Règles et organisation](#règles-et-organisation)
+- [Contributions](#contributions)
+- [vision-du-futur](#vision-du-futur)
+
+![](workshop.jpg)
 
 # Règles et organisation
 
+L'atelier était organisé sur un créneau de 1h30, de 14h30 à 16h00 environ.
+
 1. 5 minutes pour se lever et les regarder, en silence
 2. 5 minutes pour mettre des gommettes
-  - **VERT** • Chouette ! Ça répond à mes besoins !
-  - **VIOLET** • Ça m'interroge. Je ne comprends pas. J'ai une question.
-  - **ROUGE** • Ca me gêne. Mon boss ne sera pas content.
+  - <span style="color:green">**VERT**</span> • Chouette ! Ça répond à mes besoins !
+  - <span style="color:purple">**VIOLET**</span> • Ça m'interroge. Je ne comprends pas. J'ai une question.
+  - <span style="color:red">**ROUGE**</span> • Ca me gêne. Mon boss ne sera pas content.
 3. 5 minutes pour regarder, se poser des questions
 4. Les post-its ça marche comment ?
 4. 15 minutes pour écrire des idées, questions et les placer où ça vous chante
@@ -27,7 +35,14 @@ event: http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publiq
 7. ROTI !
 8. Merci 🙂
 
+Les durées étaient données à _titre indicatif_ : rien n'a été fait pour les respecter ; **les changements d'étape étaient pilotés par l'attitude et les envies des participant·e·s**.
+
 # Contributions
+
+<video src="note-writing.mp4" controls></video>
+
+<video src="note-writing2.mp4" controls></video>
+
 
 ## Écran « Index Territoires »
 
@@ -133,5 +148,10 @@ event: http://www.opendatafrance.net/2017/09/05/restitution-intermediaire-publiq
 - Pas de longues listes !
 - Pas de longues listes désorganisées
 - Pas d'API ? +1
+
+# Vision du futur
+
+![](etalab-posters.jpg)
+
 
 [data.gouv.fr]: https://www.data.gouv.fr/
