@@ -14,7 +14,9 @@ Je suis datajournaliste à la rédaction d'Alternatives Économiques. Après y a
 
 J'ai appris l'aspect _data_ du journalisme entre autres lors d'une formation avec [journalism++](http://jplusplus.org) et leur module de formation [jquest](https://github.com/jplusplus/jquest).
 
-Au quotidien, je travaille avec un autre développeur et s'épaule sur le duo _data_ et _contenus_. On est fortement soutenu par le rédacteur en chef.
+Au quotidien, je suis journaliste et éditrice du site web d'Alternatives Économiques. Je travaille avec un développeur avec qui je travaille en binôme sur le duo _data_ et _contenus_. On est fortement soutenu par le rédacteur en chef. En plus de celà, je m'intéresse au développement de la vidéo et de nouveaux formats interactifs.
+
+Nous avons créé une équipe data en 2017. Elle est composée d'une demi-dizaine de personnes permanentes. Elle est multidisciplinaire de par les profils qu'elle regroupe : journalistes, graphistes, développeurs et rédacteur en chef.
 
 ## Thématique • Découverte des données
 
@@ -126,12 +128,6 @@ Sur un sujet donné, je vais chercher des données. Imaginons qu'il y ait 2 rés
 
 ![](google-search-musees.png)
 
----
-
-🗣 Je voulais écrire un papier sur les [300 000 emplois CICE clamés par Pierre Gattaz](https://www.alternatives-economiques.fr/cice-curieux-chiffres-de-monsieur-gattaz/00080269).
-
-⚠️ passage incomplet ⚠️
-
 ## Thématique • Compréhension des données
 
 🗣 Une des premières choses que je fais pour savoir **si la ressource est celle que je cherche**, c'est de la _télécharger_ et de regarder son contenu.
@@ -192,7 +188,7 @@ Sur un sujet donné, je vais chercher des données. Imaginons qu'il y ait 2 rés
 
 ## Thématique • Utilisation des données
 
-> Pour les fichiers KML, j'ai pris l'habitude d'utiliser CartoDB.
+> Nous cherchons à développer la cartographie. L'une des pistes envisagées, parmi d'autres, est de travailler avec des fichiers KML, un peu sur le modèle du logiciel CartoDB.
 
 ➡️ [CARTO](https://carto.com/)
 
@@ -212,7 +208,7 @@ Sur un sujet donné, je vais chercher des données. Imaginons qu'il y ait 2 rés
 
 ---
 
-❓ On voudrait se connecter à data.gouv.fr pour utiliser les données en direct, _on peut_ ? On va faire pareil avec eurostats et l'INSEE.
+❓ _Comment_ se connecter à data.gouv.fr pour utiliser les données en direct ? On va faire pareil avec eurostats et l'INSEE.
 
 💬 C'est pour faire des tableaux de bord avec les données générales de l'économie en France :
 
