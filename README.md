@@ -29,6 +29,8 @@ Cette première série d'entretiens est destinée à faire émerger des élémen
 
 L'enjeu est de dégager des **actions courtes à impact fort** ainsi qu'une vision synthétique des **domaines et de leurs niveaux d'enjeux**.
 
+![](interviews/summary-201710.jpg)
+
 Consulter le transcript des entretiens avec :
 
 * [Joel Gombin](interviews/20170711-joel/index.md)
