@@ -1,6 +1,6 @@
 ---
 date: 2017-09-04
-location: Etalab, Paris
+location: /ut7, Paris
 attendees:
 - Philippe Blayo
 - Thomas Parisot
