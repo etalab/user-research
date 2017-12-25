@@ -13,7 +13,7 @@ attendees:
 Je suis développeur sur udata. Je n'avais pas d'expérience de data.gouv.fr avant d'arriver à Etalab. J'y étais allé une ou deux fois pour voir et j'avais lu quelques articles.
 
 🗣 En revanche j'ai une expérience de l'utilisation des données ouvertes du parlement Européen par l'intermédiare d'un regroupement d'associations non gouvernmentales qui tentent de suivre les votes des députés européens :
-- les différences entre ce qu'il ont promis et leurs votes
+- les différences entre ce qu'ils ont promis et leurs votes
 - l'influence de leur passé et de leurs affiliations sur leurs votes
 
 Mon constat est que ces membres d'ONG ne sont pas du tout en mesure d'utiliser des données ouvertes. Il ont absoluement besoin d'une intermédiation (souvent un développeur) :
