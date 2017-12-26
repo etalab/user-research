@@ -21,7 +21,7 @@ Mon constat est que ces membres d'ONG ne sont pas du tout en mesure d'utiliser d
 
 ## Thématique • Recherche de données
 
-🔍 météo
+🔍 [météo](https://www.data.gouv.fr/fr/search/?q=m%C3%A9t%C3%A9o)
 
 Je cherche un historique de températures et de précipitations.
 La complétion m'affiche des propositions qui ne me parlent pas :
