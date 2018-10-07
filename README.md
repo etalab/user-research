@@ -12,6 +12,12 @@ Cet atelier a réuni une _trentaine de personnes_ lors de l'événement [Restitu
 
 📝 [Consulter la méthode et les résultats du workshop](workshops/20171004-opendatalocale/index.md)
 
+## Forum Open d’État à Nantes
+
+Cet atelier a réuni une vingtaine de personnes le 13 septembre 2018. Il s’inscrivait dans un cadre plus large, celui du quatrième forum Open d’État organisé à Nantes, dont nous avons parlé [sur le blog d’Etalab](https://www.etalab.gouv.fr/opengov-forum-open-detat-4-cuisinez-les-algorithmes-un-outil-de-mediation-numerique).
+
+👀 [Consulter le compte-rendu de Mathilde sur l’atelier](workshops/20180913-open-etat-nantes/index.md)
+
 # Entretiens en face à face
 
 ## Juillet-septembre 2017
