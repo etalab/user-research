@@ -10,51 +10,16 @@ event: https://www.etalab.gouv.fr/opengov-forum-open-detat-4-cuisinez-les-algori
 
 À partir des usages de data.gouv.fr, quelles fonctionnalités à ajouter, à garder, à améliorer, à abandonner.
 
-## Comment ils utilisent data.gouv.fr
+## Utilisateurs présents
 
-### Bénédicte
+Étaient présents à l’atelier :
 
-Son profil :
-
-* met quelques données en ligne ;
-* terme service public de la donnée à éviter alors ce qu’il y a sur la page est intéressant.
-
-### Service des retraites de l’État
-
-Leur profil :
-
-* met des données en ligne ;
-* habitude à naviguer dans plein de sites.
-
-### MESRI
-
-Leur profil :
-
-* en charge des données ouvertes ;
-* scant’R : plateforme synchronisée avec data.gouv.fr via moissonnage pour référencer automatiquement les jeux de données ;
-* recherche de jeu de données via un moteur de recherche classique.
-
-### Open data France
-
-Leur profil :
-
-* fouille de data.gouv.fr sur les données publiques ouvertes par les territoires ;
-* problématique de moissonnage ;
-
-### Start-up qui utilise l’open data et les cartes IGN
-
-Leur profil :
-
-* moissonnage de data.gouv.fr et téléchargement. Consommation quotidienne de data.gouv.fr ;
-* diffusion et traitement d’autres bases de données via réutilisations.
-
-### EPN et MEAE
-
-* productrice de données, question sur la structuration des données ;
-* projets et animations sur la donnée ;
-* accompagnement collectivités dans leurs démarches autour des données (question : toutes les données sur data.gouv.fr ou plateforme territoriale ?) ;
-* dépose des données sur data.gouv.fr via un moissonneur (perte d’informations, données perdues) + problème de téléchargement de données ;
-* cherche des données marrantes.
+* des utilisateurs individuels ;
+* des services de l’État ;
+* des membres de ministères ;
+* des associations ;
+* des start-up ;
+* des médiateurs numériques.
 
 ## Cas d’usage
 
