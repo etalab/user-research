@@ -136,5 +136,5 @@ Problèmes avec l’auto-complétion et la suggestion : les utilisateurs ne la
 * Remontée d’issues publiques ?
 * FAQ améliorée ?
 * Leur montrer le forum ?
-* Une grande question expliquée en données (cf. Perica).
+* Une grande question expliquée en données.
 * Expliciter l’algorithme du moteur de recherche.
